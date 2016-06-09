@@ -86,3 +86,8 @@ bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of e
 angle(): Angle between to vectors.
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable: gravityMean, tBodyAccMean, tBodyAccJerkMean, tBodyGyroMean, tBodyGyroJerkMean.
+
+
+### About tidy.txt
+
+tidy.txt is produced via running run_analysis.R, in which only the measurements on the mean and standard deviation for each measurement described above were extracted. The average of each variable for each activity and each subject is computed.
