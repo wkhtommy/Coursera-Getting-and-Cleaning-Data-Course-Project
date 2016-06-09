@@ -1,5 +1,5 @@
 ## Code Book
-### About the data set to be cleaned
+### About the processed data set
 
 Data is obtained for human activity recognition using smartphones. 
 
