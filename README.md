@@ -5,7 +5,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 This repo contains 
 1) a tidy data set as described below (tidy.txt),
 2) a script for performing the analysis (run_analysis.R),
-3) a code book that describes the variables, the data, and any transformations or work performed to clean up the data (cookbook.md),
+3) a code book that describes the variables, the data, and any transformations or work performed to clean up the data (codebook.md),
 4) README.md 
 
 
